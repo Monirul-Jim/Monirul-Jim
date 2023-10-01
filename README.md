@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there 👋, My Name is Monirul Jim
+#### Programmer || Full Stack Developer
+I'm an expert in HTML, CSS, REACT, JavaScript, Bootstrap, Tailwind, Node JS, Express JS, MongoDB, Material UI, React Bootstrap, Next.Js, Tailwind, React Router, React Hook Form, Firebase Authentication.
 
-<!--
-**Monirul-Jim/Monirul-Jim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a focused person. I love to code, learn and complete my milestone.
 
-Here are some ideas to get you started:
+Happy Web Programming! 🚀🚀🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:MONGODB / NODE.js / EXPRESS.JS / NEXT JS / REACT JS/ JS / HTML / CSS
+
+- 🌱 I’m currently learning Redux 
+- 👯 I’m looking to collaborate on GitHub 
+- 💬 Ask me about Web Development 
+- 📫 How to reach me: monirulislamjim6640@gmail.com 
+
+
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Monirul-Jim&theme=dracula) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Monirul-Jim&theme=dracula) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Monirul-Jim&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Monirul-Jim&theme=dracula) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Monirul-Jim&theme=dracula) 
+
+</div>
