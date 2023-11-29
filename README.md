@@ -5,8 +5,8 @@ I'm an expert in HTML, CSS, REACT, JavaScript, Bootstrap, Tailwind, Node JS, Exp
 I'm a focused person. I love to code, learn and complete my milestone.
 
 Happy Web Programming! 🚀🚀🚀
-
-Skills:MongoDb / NODE.js / EXPRESS.JS / NEXT JS / REACT JS/ JS / HTML / CSS
+Programming Language: Javascript
+Skills:MongoDb / Node.js / Express.js / Next.js/Typescript/ React.js
 
 - 🌱 I’m currently learning Redux 
 - 👯 I’m looking to collaborate on GitHub 
