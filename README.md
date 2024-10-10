@@ -27,6 +27,7 @@ I'm a focused person. I love to code, learn and complete my milestones.
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Django Rest Framework](https://img.shields.io/badge/django%20rest%20framework-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 -----------------
 
@@ -37,12 +38,7 @@ I'm a focused person. I love to code, learn and complete my milestones.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monirul-Jim&layout=compact&theme=dracula)
 
----
 
-### ⏳ Wakatime Stats
-![Monirul's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Monirul-Jim)
-
----
 
 <div align="center">
 
