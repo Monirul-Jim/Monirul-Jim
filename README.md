@@ -29,10 +29,7 @@ I'm a focused person. I love to code, learn and complete my milestones.
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Django Rest Framework](https://img.shields.io/badge/django%20rest%20framework-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
------------------
-
-### 📊 GitHub Stats
-![Monirul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monirul-Jim&show_icons=true&theme=dracula)
+----------------
 
 ![Monirul's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Monirul-Jim&theme=dracula)
 
