@@ -33,9 +33,10 @@ I'm a focused person. I love to code, learn and complete my milestones.
 <div align="center">
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monirul-Jim&layout=compact&theme=dracula&langs_count=10)
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Monirul-Jim&theme=dracula) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monirul-Jim&layout=compact&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Monirul-Jim&theme=dracula) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Monirul-Jim&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Monirul-Jim&theme=dracula) 
