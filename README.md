@@ -30,8 +30,9 @@ I'm a focused person. I love to code, learn and complete my milestones.
 ![Django Rest Framework](https://img.shields.io/badge/django%20rest%20framework-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 ----------------
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monirul-Jim&layout=compact&theme=dracula)
 <div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monirul-Jim&layout=compact&theme=dracula)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Monirul-Jim&theme=dracula) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Monirul-Jim&theme=dracula) 
