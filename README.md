@@ -1,19 +1,22 @@
-### Hi there 👋, I'm Monirul Jim
-#### Programmer || Full Stack Developer
+## Hi there 👋, I'm **Monirul Jim**  
+### 🚀 Programmer || Full Stack Developer
 
-I'm an expert in **HTML, CSS, REACT, JavaScript, Bootstrap, Tailwind, Material UI, React Bootstrap, Next.js, Typescript, React Router, React Hook Form, Firebase Authentication, Django, Django Rest Framework.**
+I specialize in **building high-quality web applications** using a range of cutting-edge technologies.
 
-I'm a focused person. I love to code, learn and complete my milestones.
+**🛠️ My Expertise:**  
+- **Languages:** JavaScript | Python  
+- **Frontend:** HTML, CSS, React, JavaScript, Next.js, Typescript, React Router, React Hook Form ,Redux
+- **Styling:** Bootstrap, TailwindCSS, Material UI, React Bootstrap  
+- **Backend:** Django, Django Rest Framework  
+- **Tools & Services:** Firebase Authentication,Jira.
 
-**Programming Language:** JavaScript | Python
+---
 
-**Skills:** React.js | Next.js | Typescript | Redux | Django | Django Rest Framework
-
-- 🌱 I’m currently learning Django 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web Development 
-- 📫 How to reach me: monirulislamjim6640@gmail.com 
-
+### 🌟 About Me:  
+- 🌱 **Currently Learning**: Django  
+- 👯 **Looking to collaborate on**: GitHub  
+- 💬 **Ask me about**: Web Development  
+- 📫 **Reach me at**: monirulislamjim6640@gmail.com
 ---
 
 ### 🧰 Tech Stack
