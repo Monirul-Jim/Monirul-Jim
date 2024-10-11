@@ -1,22 +1,29 @@
-### Hi there 👋, I'm Monirul Jim
-#### Programmer || Full Stack Developer
+## Hi there 👋, I'm **Monirul Jim**  
+### 🚀 Programmer || Full Stack Developer
 
-I'm an expert in **HTML, CSS, REACT, JavaScript, Bootstrap, Tailwind, Material UI, React Bootstrap, Next.js, Typescript, React Router, React Hook Form, Firebase Authentication, Django, Django Rest Framework.**
+I specialize in **building high-quality web applications** using a range of cutting-edge technologies.
 
-I'm a focused person. I love to code, learn and complete my milestones.
-
-**Programming Language:** JavaScript | Python
-
-**Skills:** React.js | Next.js | Typescript | Redux | Django | Django Rest Framework
-
-- 🌱 I’m currently learning Django 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web Development 
-- 📫 How to reach me: monirulislamjim6640@gmail.com 
+**🛠️ My Expertise:**  
+- **Languages:** JavaScript | Python  
+- **Frontend:** HTML, CSS, React, JavaScript, Next.js, Typescript, React Router, React Hook Form  
+- **Styling:** Bootstrap, TailwindCSS, Material UI, React Bootstrap  
+- **Backend:** Django, Django Rest Framework  
+- **Tools & Services:** Firebase Authentication, Redux
 
 ---
 
-### 🧰 Tech Stack
+### 🌟 About Me:  
+- 🌱 **Currently Learning**: Django  
+- 👯 **Looking to collaborate on**: GitHub  
+- 💬 **Ask me about**: Web Development  
+- 📫 **Reach me at**: monirulislamjim6640@gmail.com
+
+---
+
+### 🧰 **Tech Stack**
+
+<div align="center">
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -29,13 +36,18 @@ I'm a focused person. I love to code, learn and complete my milestones.
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Django Rest Framework](https://img.shields.io/badge/django%20rest%20framework-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-----------------
+</div>
+
+---
+
+### 🔥 **GitHub Stats**
+
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Monirul-Jim&theme=dracula) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Monirul-Jim&theme=dracula) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Monirul-Jim&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Monirul-Jim&theme=dracula) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monirul-Jim&layout=compact&theme=dracula)
+![Monirul Jim's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Monirul-Jim&theme=dracula)  
+![Monirul Jim's Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Monirul-Jim&theme=dracula)  
+![Monirul Jim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Monirul-Jim&layout=compact&theme=dracula)  
+![Monirul Jim's Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Monirul-Jim&theme=dracula)  
+![Monirul Jim's Most Committed Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Monirul-Jim&theme=dracula)  
 
 </div>
