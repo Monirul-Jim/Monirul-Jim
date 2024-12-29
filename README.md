@@ -7,13 +7,13 @@ I specialize in **building high-quality web applications** using a range of cutt
 - **Languages:** JavaScript | Python  
 - **Frontend:** HTML, CSS, React, JavaScript, Next.js, Typescript, React Router, React Hook Form ,Redux
 - **Styling:** Bootstrap, TailwindCSS, Material UI, React Bootstrap  
-- **Backend:** Django, Django Rest Framework  
+- **Backend:** Django, Django Rest Framework  ,Node.js , Express.js.
 - **Tools & Services:** Firebase Authentication,Jira.
 
 ---
 
 ### 🌟 About Me:  
-- 🌱 **Currently Learning**: Django  
+- 🌱 **Currently Learning**: Docker  
 - 👯 **Looking to collaborate on**: GitHub  
 - 💬 **Ask me about**: Web Development  
 - 📫 **Reach me at**: monirulislamjim6640@gmail.com
