@@ -8,12 +8,12 @@ I specialize in **building high-quality web applications** using a range of cutt
 - **Frontend:** HTML, CSS, JavaScript, React, Next.js, Typescript, React Router, React Hook Form ,Redux
 - **Styling:** Bootstrap, TailwindCSS, Material UI, React Bootstrap, Chakra UI.  
 - **Backend:** Django, Django Rest Framework  , Node.js , Express.js.
-- **Tools & Services:** Firebase Authentication,Jira.
+- **Tools & Services:**  Docker,  Firebase Authentication,Jira.
 
 ---
 
 ### 🌟 About Me:  
-- 🌱 **Currently Learning**: Docker  
+- 🌱 **Currently Learning**: Prisma & GraphQL  
 - 👯 **Looking to collaborate on**: GitHub  
 - 💬 **Ask me about**: Web Development  
 - 📫 **Reach me at**: monirulislamjim6640@gmail.com
