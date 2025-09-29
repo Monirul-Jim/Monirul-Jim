@@ -13,7 +13,7 @@ I specialize in **building high-quality web applications** using a range of cutt
 ---
 
 ### 🌟 About Me:  
-- 🌱 **Currently Learning**: Prisma & GraphQL  
+- 🌱 **Currently Learning**: DevOps 
 - 👯 **Looking to collaborate on**: GitHub  
 - 💬 **Ask me about**: Web Development  
 - 📫 **Reach me at**: monirulislamjim3747@gmail.com
