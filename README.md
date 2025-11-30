@@ -4,10 +4,11 @@
 I specialize in **building high-quality web applications** using a range of cutting-edge technologies.
 
 **🛠️ My Expertise:**  
-- **Languages:** JavaScript | Python  
+- **Languages:** JavaScript | TypeScript | Python  
 - **Frontend:** HTML, CSS, JavaScript, React, Next.js, Typescript, React Router, React Hook Form ,Redux
 - **Styling:** Bootstrap, TailwindCSS, Material UI, React Bootstrap, Chakra UI.  
 - **Backend:** Django, Django Rest Framework  , Node.js , Express.js.
+- **Mobile Application:** React Native.
 - **Tools & Services:**  Docker,  Firebase Authentication,Jira.
 
 ---
