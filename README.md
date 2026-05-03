@@ -16,35 +16,26 @@
 
 ## 🧑‍💻 About Me
 
-```javascript
-const monirulJim = {
-  name: "Monirul Islam Jim",
-  role: "Full Stack Developer",
-  location: "Bangladesh 🇧🇩",
-  currentlyLearning: "DevOps 🐳",
-  lookingToCollaborate: "GitHub Projects 🤝",
-  askMeAbout: ["Web Development", "React", "Django", "APIs"],
-  contact: "monirulislamjim3747@gmail.com",
-  funFact: "I turn coffee into code ☕ → 💻"
-};
-```
-
-<br/>
-
 <table>
 <tr>
-<td>
+<td width="55%">
 
-- 🌱 **Currently Learning:** DevOps
-- 👯 **Looking to collaborate on:** GitHub
-- 💬 **Ask me about:** Web Development
-- 📫 **Reach me at:** [monirulislamjim3747@gmail.com](mailto:monirulislamjim3747@gmail.com)
-- ⚡ **Fun fact:** I love building things that people actually use!
+### Hi, I'm Monirul Jim 👋
+
+I'm a passionate **Full Stack Developer** from 🇧🇩 Bangladesh who loves building high-quality web applications with modern technologies.
+
+| | |
+|---|---|
+| 🌱 **Learning** | DevOps |
+| 👯 **Collaborate** | Open Source on GitHub |
+| 💬 **Ask me about** | Web Development |
+| 📫 **Email** | [monirulislamjim3747@gmail.com](mailto:monirulislamjim3747@gmail.com) |
+| ⚡ **Fun fact** | I turn coffee into code ☕ → 💻 |
 
 </td>
-<td>
+<td width="45%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Monirul-Jim&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Monirul-Jim&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="100%" />
 
 </td>
 </tr>
@@ -108,8 +99,9 @@ const monirulJim = {
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Monirul-Jim&theme=dracula" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Monirul-Jim&theme=dracula" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Monirul-Jim&theme=dracula" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Monirul-Jim&theme=dracula" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Monirul-Jim&theme=dracula&utcOffset=6" width="32%" />
 
 </div>
 
