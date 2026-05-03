@@ -170,6 +170,13 @@ const monirulJim = {
 
 ---
 
+### 🌟 Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ### 💡 Random Dev Quote
 
 <p align="center">
@@ -178,19 +185,36 @@ const monirulJim = {
 
 ---
 
-### 🐍 Contribution Snake
+### 📌 Pinned Repositories
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Monirul-Jim/Monirul-Jim/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Monirul-Jim/Monirul-Jim/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Monirul-Jim/Monirul-Jim/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <a href="https://github.com/Monirul-Jim">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Monirul-Jim&repo=your-awesome-project&theme=radical&hide_border=true&bg_color=0D1117" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### 💼 Open for Opportunities
+
+```diff
++ 🚀 Available for Full-time positions
++ 💼 Open to Freelance projects
++ 🤝 Looking for collaboration opportunities
++ 📚 Always eager to learn new technologies
+```
+
+</div>
 
 ---
 
 <div align="center">
   
-### ⚡ *"Building the future, one commit at a time"* ⚡
+### ⚡ *"Code is like humor. When you have to explain it, it's bad."* ⚡
+
+### 🌟 Thanks for visiting! Let's build something amazing together! 🌟
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
   
